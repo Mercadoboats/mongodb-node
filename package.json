@@ -15,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Mercadoboats/mongodb-node.git"
+    "url": "git+https://github.com/Mercadoboats/test-view"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Mercadoboats/mongodb-node/issues"
+    "url": "https://github.com/Mercadoboats/test-view/issues"
   },
-  "homepage": "https://github.com/Mercadoboats/mongodb-node#readme"
+  "homepage": "https://github.com/Mercadoboats/test-view#readme"
 }
